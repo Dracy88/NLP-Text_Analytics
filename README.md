@@ -7,7 +7,8 @@ Some projects of NLP and Text Mining &amp; Analytics and exercises with the most
 - Built a simple sentiment analyzer
 - Estimating document similarity
 
-## Exercices:
+## Guide / Exercices:
+- Useful functions in Pandas
 - NLTK: Basics
 - NLTK: Intro and Spelling Recommendation
 - Dealing text with Sklearn
