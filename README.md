@@ -8,5 +8,6 @@ Some projects of NLP and Text Mining &amp; Analytics and exercises with the most
 - Estimating document similarity
 
 ## Exercices:
-- NLTK - Intro and Spelling Recommendation
+- NLTK: Basics
+- NLTK: Intro and Spelling Recommendation
 - Dealing text with Sklearn
